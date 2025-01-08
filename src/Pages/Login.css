@@ -1,0 +1,42 @@
+.register{
+    max-width: 350px;
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    
+}
+.register h1{
+    color: black;
+    margin: 0;
+}
+input[type=email]{
+  display: inline-block;
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  border: -5px solid;
+  margin: 10px 0;
+}
+input[type=password]{
+    display: inline-block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    border: -5px solid;
+    margin: 10px 0;
+  }
+  .log{
+   width:  100%;
+   padding: 10px;
+    margin: 10px 0;
+    font-size: 25px;
+    border-style: none;
+    background-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+  }
+  .top{
+    margin-top: 50px;
+  }

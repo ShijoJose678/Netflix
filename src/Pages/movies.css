@@ -1,0 +1,39 @@
+.movies{
+     /* background-image: url('https://wallpaperaccess.com/full/2703652.png'); */
+     background-size:cover;
+     height: 540px;
+     color: white; 
+}
+.moviecont{
+    padding-top: 90px;
+    height: 190px;
+}
+.movietitle{
+    font-size: 3rem;
+    font-weight: 800;
+    margin-left: 20px;  
+}
+.moviebutton{
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    background-color: rgba(51, 51, 51, .5);
+    cursor: pointer;
+    margin-left: 20px;
+}
+.moviebutton:hover{
+    color: black;
+    background-color: #e6e6e6;
+}
+.moviedis{
+    line-height: 1.3;
+    height: 80px;
+    max-width: 360px;
+    margin-left: 20px;
+}
